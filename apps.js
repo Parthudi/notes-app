@@ -20,8 +20,8 @@ const getcolue = color.blue('Hello') + ' World' + color.red('!')
 const mastcolor = color.red('Error' + 'msg')
 console.log(varp)
 console.log(getcolue)
-console.log(mastcolor)
-console.log(process.argv)*/
+console.log(mastcolor)*/
+//console.log(process.argv)
 
 const color = require('chalk')
 const yargs = require('yargs')
